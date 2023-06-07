@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExemploTest::testFatorial":7,"ExemploTest::testExemplo":8,"ExemploTest::testFibonacci":7},"times":{"ExemploTest::testExemplo":0.004,"ExemploTest::testFatorial":0,"ExemploTest::testFatorial2":0,"ExemploTest::testFibonacci":0}}
